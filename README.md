@@ -1,5 +1,5 @@
 # electronic-sales-dashboard
-Interactive sales dashboard project built with Power BI using simulated electronic retail data and Python (Google COlab) for statistical test validation. Provides monthly and yearly performance analysis through MoM and YoY metrics, key business KPIs, and structured data modeling with DAX time intelligence. The statistical tests conducted included the McNemar test, chi-square test, Kruskal-Wallis test, and trend decomposition.
+Interactive sales dashboard project built with Power BI using simulated electronic retail data and Python (Google COlab) for statistical test validation. Provides monthly and yearly performance analysis through MoM and YoY metrics, key business KPIs, and structured data modeling with DAX time intelligence. The statistical tests conducted included the McNemar test, regression modeling, chi-square test, Kruskal-Wallis test, and trend decomposition.
 
 **Findings:**
 Overall, business performance shows positive but still limited growth. The number of customers has increased, but this has not yet been followed by higher average transaction value per customer. Annual growth (YoY) was mainly driven by strong performance at the beginning of the year, while performance in subsequent periods remained unstable, as reflected in the fluctuating MoM pattern.
